@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using projeto_interface.TiposAnimais;
-using System.Runtime.Intrinsics.X86;
 
 Console.WriteLine("Demonstração de Animais:");
 
